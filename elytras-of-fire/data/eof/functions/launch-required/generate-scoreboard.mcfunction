@@ -86,6 +86,7 @@ scoreboard objectives add Corruption1 trigger
 scoreboard objectives add Corruption2 trigger
 scoreboard objectives add Blackout1 trigger
 scoreboard objectives add Blackout2 trigger
+scoreboard objectives add AteCarrion minecraft.used:minecraft.rotten_flesh
 		#RainWings
 scoreboard objectives add Reaction1 trigger
 scoreboard objectives add Reaction2 trigger
